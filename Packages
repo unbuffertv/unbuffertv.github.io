@@ -37,10 +37,10 @@ Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
 Installed-Size: 55448
 Conflicts: re.frida.server64
 Filename: ./debs/re.frida.server_15.1.17_appletvos-arm64.deb
-Size: 15930760
-MD5sum: c7b3572a6888c7a702635f475a346000
-SHA1: cc0e982c364ea74b0ea9d41cbec3da2b297f8f67
-SHA256: 607aebeb37d232025cd7c2c4246dbb2127c9b408ceaf353d81bbe35db2201a44
+Size: 15927748
+MD5sum: 9f711a9a2c769afe44e869eefa960526
+SHA1: f1822989c325cafa7d163ca7f9dde20b1e748744
+SHA256: 2a22ba8632465f92d20afbb958b68d578b2b560095466897ccc7b5209bd5f27e
 Section: Development
 Priority: optional
 Homepage: https://www.frida.re/
