@@ -1,0 +1,38 @@
+<package>
+	<id>re.frida.server</id>
+	<name>Frida Server</name>
+	<version>15.1.17</version>
+	<compatibility>
+		<firmware>
+			<mintvOS>7.0</mintvOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Repacked package of Frida 15.1.17 server for tvOS devices</shortDescription>
+	<descriptionlist>
+		<description>Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.</description>
+		<description>Unofficial/unsupported port from https://github.com/frida/frida/</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Frida GitHub Project</name>
+			<url>https://github.com/frida/frida/</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>

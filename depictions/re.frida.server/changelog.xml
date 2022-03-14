@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>15.1.17</version>
+		<change>Initial repackage port from Frida server 15.1.17</change>
+	</changes>
+</changelog>
