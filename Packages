@@ -32,15 +32,15 @@ Name: Old Package
 
 Package: re.frida.server
 Version: 15.1.17
-Architecture: appletvos-arm
+Architecture: appletvos-arm64
 Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
 Installed-Size: 55448
 Conflicts: re.frida.server64
-Filename: ./debs/re.frida.server_15.1.17_appletvos-arm.deb
-Size: 15930772
-MD5sum: 0d5167ae65e65bb3c03baf4e0c28342a
-SHA1: 183822d95d35f385e5d967b25aca34eab6e3abc2
-SHA256: f411f859cbb82538309dc7e74196e546a0ae5535553d18e8f19ce82ce835775b
+Filename: ./debs/re.frida.server_15.1.17_appletvos-arm64.deb
+Size: 15930760
+MD5sum: c7b3572a6888c7a702635f475a346000
+SHA1: cc0e982c364ea74b0ea9d41cbec3da2b297f8f67
+SHA256: 607aebeb37d232025cd7c2c4246dbb2127c9b408ceaf353d81bbe35db2201a44
 Section: Development
 Priority: optional
 Homepage: https://www.frida.re/
