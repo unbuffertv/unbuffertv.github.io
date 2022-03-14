@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: tv.unbuffer.com
+Label: tv.unbuffer.com
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm appletvos-arm iphoneos-arm64 appletvos-arm64 iphoneos-arm64e appletvos-arm64e
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: tv.unbuffer.com - an AppleTV cydia repo. Credit for all packages belongs to their authors. I have just rebuilt for testing AppleTV. 
