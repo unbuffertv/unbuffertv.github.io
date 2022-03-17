@@ -1,0 +1,36 @@
+<package>
+	<id>net.angelxwind.appsyncunified</id>
+	<name>AppSync Unified</name>
+	<version>104.0</version>
+	<compatibility>
+		<firmware>
+			<mintvOS>10.0</mintvOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Package of AppSync unified built for tvOS devices. iOS also hosted. Compiled against patched theos SDK 15.4</shortDescription>
+	<descriptionlist>
+		<description>Visit Karen's Repo for further info. Allows invalid apps to be installed and useful for development/testing.</description>
+		<description>Unofficial/unsupported port from https://github.com/akemin-dayo/AppSync</description>
+		<description>Do not use for piracy https://github.com/akemin-dayo/AppSync#regarding-piracy</description>
+	</descriptionlist>
+	<screenshots>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>AppSync Unified GitHub Project</name>
+			<url>https://github.com/akemin-dayo/AppSync</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+		<link>
+			<name>Karen's Repo</name>
+			<url>https://cydia.akemi.ai/</url>
+			<iconclass>fa fa-apple-crate</iconclass>
+		</link>
+	</links>
+</package>

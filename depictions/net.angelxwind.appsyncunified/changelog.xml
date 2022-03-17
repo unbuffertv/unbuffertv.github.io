@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>104.0</version>
+		<change>Initial repackage of Appsync Unified against tvOS 15.4/ iOS 15.4 SDK</change>
+	</changes>
+</changelog>

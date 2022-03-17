@@ -15,15 +15,7 @@
 		<description>Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.</description>
 		<description>Unofficial/unsupported port from https://github.com/frida/frida/</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+	<screenshots>	
 	</screenshots>
 	<changelog>
 		<change>Initial release</change>

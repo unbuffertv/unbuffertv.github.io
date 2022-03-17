@@ -30,6 +30,48 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 Name: Old Package
 
+Package: net.angelxwind.appsyncunified
+Version: 104.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 588
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/net.angelxwind.appsyncunified_104.0_iphoneos-arm.deb
+Size: 46394
+MD5sum: 00f5629ad9ede70464524e2ccfd0b461
+SHA1: 6b3a7ae0672728abd84cd0626846eef52b327f25
+SHA256: 9af9e272d11d51e1ea98f3715705742b53929c2e2b4be779ee4da7a502693199
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications. Rebuilt for AppleTVOS using SDK 15.4 by mail<at>unbuffer.com and hosted at tv.unbuffer.com but all credit goes to original author. Do not use for piracy.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://tv.unbuffer.com/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
+Package: net.angelxwind.appsyncunified
+Version: 104.0
+Architecture: appletvos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 652
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/net.angelxwind.appsyncunified_104.0_appletvos-arm.deb
+Size: 46498
+MD5sum: 86173b2b233f92e6491536702cc8ce90
+SHA1: dc90212dd699fb9ed172aa6527e136b235b2e094
+SHA256: 10f53c7b850b099660df84da4624eaaee7161b512e69921f71124fba6f9a8ebd
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications. Rebuilt for AppleTVOS using SDK 15.4 by mail<at>unbuffer.com and hosted at tv.unbuffer.com but all credit goes to original author. Do not use for piracy.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://tv.unbuffer.com/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
 Package: re.frida.server
 Version: 15.1.17
 Architecture: appletvos-arm64
