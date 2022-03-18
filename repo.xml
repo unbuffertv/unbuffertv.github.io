@@ -6,6 +6,11 @@
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
                 <link>
+                        <name>My Github profile</name>
+                        <url>https://github.com/stuartw1</url>
+                        <iconclass>fa fa-github</iconclass>
+                </link>
+                <link>
                         <name>Contact admin - mail @n_o-s_p_a_m  unbuffer.com</name>
                         <url>https://twitter.com/unbuffercom</url>
                         <iconclass>fa fa-email</iconclass>
