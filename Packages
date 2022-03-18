@@ -61,10 +61,10 @@ Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.ap
 Replaces: us.hackulo.appsync50
 Provides: appsync
 Filename: ./debs/net.angelxwind.appsyncunified_104.0_appletvos-arm.deb
-Size: 46500
-MD5sum: 0dd3f4066d4fe4ecc4b862953353cf48
-SHA1: c020edab2d939214afd86f177b4b20970ae9067b
-SHA256: 79387b00c70080a8582af7fbbe4381d8ff0022031a4b7437b76e165eb9cff19a
+Size: 43544
+MD5sum: 643e19c4dd575973ecdc5d989ae4aebe
+SHA1: 33099a03718a0968802c74c5eb9b54643a2a9c44
+SHA256: ea17cee8391229f6c663cf04470bc8563259082ff58c6820dc987d02b1d2f80a
 Section: Tweaks
 Homepage: https://cydia.akemi.ai/
 Description: Enables the ability to install unsigned/fakesigned iOS applications. Rebuilt for AppleTVOS using SDK 15.4 by mail<at>unbuffer.com and hosted at tv.unbuffer.com but all credit goes to original author. Do not use for piracy.
@@ -82,10 +82,10 @@ Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.ap
 Replaces: us.hackulo.appsync50
 Provides: appsync
 Filename: ./debs/net.angelxwind.appsyncunified_104.0_appletvos-arm64e.deb
-Size: 46498
-MD5sum: 861cf44b105a382bedf9378056321f92
-SHA1: ca1f63ac50e711e922090eb9eb693e71b59b611b
-SHA256: c045cca13947266fd496ab30d79b4a890608e392b70a2f51965167738720d29f
+Size: 43546
+MD5sum: a36884b0527f8979f0b2a53108b658e7
+SHA1: c747ed5910d293887e68b8e13c12d0962a7e28ce
+SHA256: c481960b29eb1d1ccc179b029b011aae0181cb3a71af2da318c1d5f20fd0a0a3
 Section: Tweaks
 Homepage: https://cydia.akemi.ai/
 Description: Enables the ability to install unsigned/fakesigned iOS applications. Rebuilt for AppleTVOS using SDK 15.4 by mail<at>unbuffer.com and hosted at tv.unbuffer.com but all credit goes to original author. Do not use for piracy.
@@ -103,10 +103,10 @@ Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.ap
 Replaces: us.hackulo.appsync50
 Provides: appsync
 Filename: ./debs/net.angelxwind.appsyncunified_104.0_appletvos-arm64.deb
-Size: 46500
-MD5sum: 7b8b193ef9255b45d2fdb492a45f578d
-SHA1: c97de47a9158c31c500c25655a7cc21941c6f585
-SHA256: f17ef3a2facc08a652b9a6e935b4a70f8e386b3c898d40ab8fe41e752caee472
+Size: 43538
+MD5sum: 4e5f81bcaf446ec7988998e7b466739e
+SHA1: bb7b2873dad3e591cfe1d59bd33f3a1dfa0900ea
+SHA256: 55ce18359a04e12595c37b6c6a7d35de8e8a28fd9bf9fb03c05a06ef12d43068
 Section: Tweaks
 Homepage: https://cydia.akemi.ai/
 Description: Enables the ability to install unsigned/fakesigned iOS applications. Rebuilt for AppleTVOS using SDK 15.4 by mail<at>unbuffer.com and hosted at tv.unbuffer.com but all credit goes to original author. Do not use for piracy.
